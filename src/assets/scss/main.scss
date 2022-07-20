@@ -1,0 +1,145 @@
+@import "./fonts/_fonts.sass";
+@import "./vendor/normalize";
+@import "./vendor/helper";
+@import "./vendor/mixin";
+
+* {
+  font-family: "Montserrat", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-family: "Roboto Slab", serif;
+}
+
+// GetApiKeyComponent
+
+.apikey-root {
+  .apikey-wrapper {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    p {
+      &.head-title {
+        @include headTitle;
+      }
+    }
+    .input-block {
+      width: 980px;
+      height: 30px;
+      margin-top: 15px;
+      input {
+        width: 100%;
+        height: 100%;
+      }
+    }
+  }
+}
+
+// END: GetApiKeyComponent
+
+// Home Component
+
+.home-root {
+  background-color: #000;
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+  .home-wrapper {
+    width: 100%;
+    height: 100%;
+    .home-container {
+      width: 100%;
+      height: 100%;
+      display: flex;
+      position: absolute;
+      justify-content: center;
+      align-items: center;
+      z-index: 9;
+      img {
+        width: 70%;
+        height: auto;
+      }
+      .bg-item {
+        display: flex;
+        position: absolute;
+        z-index: -1;
+        top: 0;
+        width: 100%;
+        height: 100vh;
+        filter: blur(1.5rem);
+        &.active-rain {
+          background-image: url("http://localhost:3000/assets/images/main.png");
+          background-repeat: no-repeat;
+          background-size: cover;
+        }
+      }
+      .content-block {
+        position: relative;
+        box-shadow: 0px 0px 20px 5px rgba(0, 0, 0, 0.35);
+        display: flex;
+        background-color: #000;
+        width: 90%;
+        min-height: 700px;
+        img {
+          position: absolute;
+          top: 0;
+          left: 0;
+          width: 100%;
+          height: 100%;
+        }
+        .left-block {
+          width: 60%;
+          display: flex;
+          z-index: 9;
+          .info-container {
+            display: flex;
+            align-items: flex-end;
+            padding: 70px;
+            .info-block {
+              display: flex;
+              align-items: center;
+              p {
+                color: #fff;
+                &.degree-value {
+                  font-size: 76px;
+                  font-weight: 800;
+                }
+              }
+              .city-info {
+                display: flex;
+                flex-direction: column;
+                margin-left: 10px;
+                p {
+                  font-size: 28px;
+                  &.name {
+                    font-size: 16px;
+                    margin-top: 5px;
+                  }
+                }
+              }
+            }
+          }
+        }
+        .rigth-block {
+          position: relative;
+          width: 40%;
+          padding: 40px;
+          background: rgba(0, 0, 0, 0.4);
+          box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+          backdrop-filter: blur(7.9px);
+          -webkit-backdrop-filter: blur(9.9px);
+          .blured-bg {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+          }
+        }
+      }
+    }
+  }
+}
+
+// ENDÇ Home Component
+
+#react-select-3-listbox {
+  position: absolute;
+  top: 30px;
+}

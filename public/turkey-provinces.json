@@ -1,0 +1,1463 @@
+[
+    {
+        "label": "Adana",
+        "value": 1,
+        "labelceleri": [
+            "Aladag",
+            "Ceyhan",
+            "Cukurova",
+            "Feke",
+            "Imamoglu",
+            "Karaisali",
+            "Karatas",
+            "Kozan",
+            "Pozanti",
+            "Saimbeyli",
+            "Saricam",
+            "Seyhan",
+            "Tufanbeyli",
+            "Yumurtalik",
+            "Yuregir"
+        ]
+    },
+    {
+        "label": "Adiyaman",
+        "value": 2,
+        "labelceleri": [
+            "Besni",
+            "Celikhan",
+            "Gerger",
+            "Golbasi",
+            "Kahta",
+            "Merkez",
+            "Samsat",
+            "Sincik",
+            "Tut"
+        ]
+    },
+    {
+        "label": "Afyonkarahisar",
+        "value": 3,
+        "labelceleri": [
+            "Basmakci",
+            "Bayat",
+            "Bolvadin",
+            "Cay",
+            "Cobanlar",
+            "Dazkiri",
+            "Dinar",
+            "Emirdag",
+            "Evclabeler",
+            "Hocalar",
+            "Ihsaniye",
+            "Iscehisar",
+            "Kiziloren",
+            "Merkez",
+            "Sandikli",
+            "Sinanpasa",
+            "Sultandagi",
+            "Suhut"
+        ]
+    },
+    {
+        "label": "Agri",
+        "value": 4,
+        "labelceleri": [
+            "Diyadin",
+            "Dogubayazit",
+            "Eleskirt",
+            "Hamur",
+            "Merkez",
+            "Patnos",
+            "Taslicay",
+            "Tutak"
+        ]
+    },
+    {
+        "label": "Amasya",
+        "value": 5,
+        "labelceleri": [
+            "Goynucek",
+            "Gumushacikoy",
+            "Hamamozu",
+            "Merkez",
+            "Merzifon",
+            "Suluova",
+            "Tasova"
+        ]
+    },
+    {
+        "label": "Ankara",
+        "value": 6,
+        "labelceleri": [
+            "Altindag",
+            "Ayas",
+            "Bala",
+            "Beypazari",
+            "Camlidere",
+            "Cankaya",
+            "Cubuk",
+            "Elmadag",
+            "Gudul",
+            "Haymana",
+            "Kalecik",
+            "Kizilcahamam",
+            "Nallihan",
+            "Polatli",
+            "Sereflikochisar",
+            "Yenimahalle",
+            "Golbasi",
+            "Kecioren",
+            "Mamak",
+            "Sincan",
+            "Kazan",
+            "Akyurt",
+            "Etimesgut",
+            "Evren",
+            "Pursaklar"
+        ]
+    },
+    {
+        "label": "Antalya",
+        "value": 7,
+        "labelceleri": [
+            "Akseki",
+            "Alanya",
+            "Elmali",
+            "Finike",
+            "Gazipasa",
+            "Gundogmus",
+            "Kas",
+            "Korkuteli",
+            "Kumluca",
+            "Manavgat",
+            "Serik",
+            "Demre",
+            "Ibradi",
+            "Kemer",
+            "Aksu",
+            "Dosemealti",
+            "Kepez",
+            "Konyaalti",
+            "Muratpasa"
+        ]
+    },
+    {
+        "label": "Artvin",
+        "value": 8,
+        "labelceleri": [
+            "Ardanuc",
+            "Arhavi",
+            "Merkez",
+            "Borcka",
+            "Hopa",
+            "Savsat",
+            "Yusufeli",
+            "Murgul"
+        ]
+    },
+    {
+        "label": "Aydin",
+        "value": 9,
+        "labelceleri": [
+            "Merkez",
+            "Bozdogan",
+            "Efeler",
+            "Cine",
+            "Germencik",
+            "Karacasu",
+            "Kocarli",
+            "Kusadasi",
+            "Kuyucak",
+            "Nazlabelli",
+            "Soke",
+            "Sultanhisar",
+            "Yenipazar",
+            "Buharkent",
+            "Incirliova",
+            "Karpuzlu",
+            "Kosk",
+            "Didim"
+        ]
+    },
+    {
+        "label": "Balikesir",
+        "value": 10,
+        "labelceleri": [
+            "Altieylul",
+            "Ayvalik",
+            "Merkez",
+            "Balya",
+            "Bandirma",
+            "Bigadic",
+            "Burhaniye",
+            "Dursunbey",
+            "Edremit",
+            "Erdek",
+            "Gonen",
+            "Havran",
+            "Ivrindi",
+            "Karesi",
+            "Kepsut",
+            "Manyas",
+            "Savastepe",
+            "Sindirgi",
+            "Gomec",
+            "Susurluk",
+            "Marmara"
+        ]
+    },
+    {
+        "label": "Blabelecik",
+        "value": 11,
+        "labelceleri": [
+            "Merkez",
+            "Bozuyuk",
+            "Golpazari",
+            "Osmaneli",
+            "Pazaryeri",
+            "Sogut",
+            "Yenipazar",
+            "Inhisar"
+        ]
+    },
+    {
+        "label": "Bingol",
+        "value": 12,
+        "labelceleri": [
+            "Merkez",
+            "Genc",
+            "Karliova",
+            "Kigi",
+            "Solhan",
+            "Adakli",
+            "Yayladere",
+            "Yedisu"
+        ]
+    },
+    {
+        "label": "Bitlis",
+        "value": 13,
+        "labelceleri": [
+            "Adlabelcevaz",
+            "Ahlat",
+            "Merkez",
+            "Hizan",
+            "Mutki",
+            "Tatvan",
+            "Guroymak"
+        ]
+    },
+    {
+        "label": "Bolu",
+        "value": 14,
+        "labelceleri": [
+            "Merkez",
+            "Gerede",
+            "Goynuk",
+            "Kibriscik",
+            "Mengen",
+            "Mudurnu",
+            "Seben",
+            "Dortdivan",
+            "Yenicaga"
+        ]
+    },
+    {
+        "label": "Burdur",
+        "value": 15,
+        "labelceleri": [
+            "Aglasun",
+            "Bucak",
+            "Merkez",
+            "Golhisar",
+            "Tefenni",
+            "Yeslabelova",
+            "Karamanli",
+            "Kemer",
+            "Altinyayla",
+            "Cavdir",
+            "Celtikci"
+        ]
+    },
+    {
+        "label": "Bursa",
+        "value": 16,
+        "labelceleri": [
+            "Gemlik",
+            "Inegol",
+            "Iznik",
+            "Karacabey",
+            "Keles",
+            "Mudanya",
+            "Mustafakemalpasa",
+            "Orhaneli",
+            "Orhangazi",
+            "Yenisehir",
+            "Buyukorhan",
+            "Harmancik",
+            "Nlabelufer",
+            "Osmangazi",
+            "Yildirim",
+            "Gursu",
+            "Kestel"
+        ]
+    },
+    {
+        "label": "Canakkale",
+        "value": 17,
+        "labelceleri": [
+            "Ayvacik",
+            "Bayramic",
+            "Biga",
+            "Bozcaada",
+            "Can",
+            "Merkez",
+            "Eceabat",
+            "Ezine",
+            "Gelibolu",
+            "Gokceada",
+            "Lapseki",
+            "Yenice"
+        ]
+    },
+    {
+        "label": "Cankiri",
+        "value": 18,
+        "labelceleri": [
+            "Merkez",
+            "Cerkes",
+            "Eldivan",
+            "labelgaz",
+            "Kursunlu",
+            "Orta",
+            "Sabanozu",
+            "Yaprakli",
+            "Atkaracalar",
+            "Kizilirmak",
+            "Bayramoren",
+            "Korgun"
+        ]
+    },
+    {
+        "label": "Corum",
+        "value": 19,
+        "labelceleri": [
+            "Alaca",
+            "Bayat",
+            "Merkez",
+            "Isklabelip",
+            "Kargi",
+            "Mecitozu",
+            "Ortakoy",
+            "Osmancik",
+            "Sungurlu",
+            "Bogazkale",
+            "Ugurludag",
+            "Dodurga",
+            "Lacin",
+            "Oguzlar"
+        ]
+    },
+    {
+        "label": "Denizli",
+        "value": 20,
+        "labelceleri": [
+            "Acipayam",
+            "Buldan",
+            "Cal",
+            "Cameli",
+            "Cardak",
+            "Civrlabel",
+            "Merkez",
+            "Merkezefendi",
+            "Pamukkale",
+            "Guney",
+            "Kale",
+            "Saraykoy",
+            "Tavas",
+            "Babadag",
+            "Beklabelli",
+            "Honaz",
+            "Serinhisar",
+            "Baklan",
+            "Beyagac",
+            "Bozkurt"
+        ]
+    },
+    {
+        "label": "Diyarbakir",
+        "value": 21,
+        "labelceleri": [
+            "Kocakoy",
+            "Cermik",
+            "Cinar",
+            "Cungus",
+            "Dicle",
+            "Ergani",
+            "Hani",
+            "Hazro",
+            "Kulp",
+            "Lice",
+            "Slabelvan",
+            "Eglabel",
+            "Baglar",
+            "Kayapinar",
+            "Sur",
+            "Yenisehir",
+            "Bismlabel"
+        ]
+    },
+    {
+        "label": "Edirne",
+        "value": 22,
+        "labelceleri": [
+            "Merkez",
+            "Enez",
+            "Havsa",
+            "Ipsala",
+            "Kesan",
+            "Lalapasa",
+            "Meric",
+            "Uzunkopru",
+            "Suloglu"
+        ]
+    },
+    {
+        "label": "Elazig",
+        "value": 23,
+        "labelceleri": [
+            "Agin",
+            "Basklabel",
+            "Merkez",
+            "Karakocan",
+            "Keban",
+            "Maden",
+            "Palu",
+            "Sivrice",
+            "Aricak",
+            "Kovancilar",
+            "Alacakaya"
+        ]
+    },
+    {
+        "label": "Erzincan",
+        "value": 24,
+        "labelceleri": [
+            "Cayirli",
+            "Merkez",
+            "Ilic",
+            "Kemah",
+            "Kemaliye",
+            "Refahiye",
+            "Tercan",
+            "Uzumlu",
+            "Otlukbeli"
+        ]
+    },
+    {
+        "label": "Erzurum",
+        "value": 25,
+        "labelceleri": [
+            "Askale",
+            "Cat",
+            "Hinis",
+            "Horasan",
+            "Ispir",
+            "Karayazi",
+            "Narman",
+            "Oltu",
+            "Olur",
+            "Pasinler",
+            "Senkaya",
+            "Tekman",
+            "Tortum",
+            "Karacoban",
+            "Uzundere",
+            "Pazaryolu",
+            "Koprukoy",
+            "Palandoken",
+            "Yakutiye",
+            "Aziziye"
+        ]
+    },
+    {
+        "label": "Eskisehir",
+        "value": 26,
+        "labelceleri": [
+            "Cifteler",
+            "Mahmudiye",
+            "Mihaliccik",
+            "Saricakaya",
+            "Seyitgazi",
+            "Sivrihisar",
+            "Alpu",
+            "Beylikova",
+            "Inonu",
+            "Gunyuzu",
+            "Han",
+            "Mihalgazi",
+            "Odunpazari",
+            "Tepebasi"
+        ]
+    },
+    {
+        "label": "Gaziantep",
+        "value": 27,
+        "labelceleri": [
+            "Araban",
+            "Islahiye",
+            "Nizip",
+            "Oguzeli",
+            "Yavuzeli",
+            "Sahinbey",
+            "Sehitkamlabel",
+            "Karkamis",
+            "Nurdagi"
+        ]
+    },
+    {
+        "label": "Giresun",
+        "value": 28,
+        "labelceleri": [
+            "Alucra",
+            "Bulancak",
+            "Dereli",
+            "Espiye",
+            "Eyneslabel",
+            "Merkez",
+            "Gorele",
+            "Kesap",
+            "Sebinkarahisar",
+            "Tirebolu",
+            "Piraziz",
+            "Yaglidere",
+            "Camoluk",
+            "Canakci",
+            "Dogankent",
+            "Guce"
+        ]
+    },
+    {
+        "label": "Gumushane",
+        "value": 29,
+        "labelceleri": [
+            "Merkez",
+            "Kelkit",
+            "Siran",
+            "Torul",
+            "Kose",
+            "Kurtun"
+        ]
+    },
+    {
+        "label": "Hakkari",
+        "value": 30,
+        "labelceleri": [
+            "Cukurca",
+            "Merkez",
+            "Semdinli",
+            "Yuksekova"
+        ]
+    },
+    {
+        "label": "Hatay",
+        "value": 31,
+        "labelceleri": [
+            "Altinozu",
+            "Arsuz",
+            "Defne",
+            "Dortyol",
+            "Hassa",
+            "Antakya",
+            "Iskenderun",
+            "Kirikhan",
+            "Payas",
+            "Reyhanli",
+            "Samandag",
+            "Yayladagi",
+            "Erzin",
+            "Belen",
+            "Kumlu"
+        ]
+    },
+    {
+        "label": "Isparta",
+        "value": 32,
+        "labelceleri": [
+            "Atabey",
+            "Egirdir",
+            "Gelendost",
+            "Merkez",
+            "Keciborlu",
+            "Senirkent",
+            "Sutculer",
+            "Sarkikaraagac",
+            "Uluborlu",
+            "Yalvac",
+            "Aksu",
+            "Gonen",
+            "Yenisarbademli"
+        ]
+    },
+    {
+        "label": "Mersin",
+        "value": 33,
+        "labelceleri": [
+            "Anamur",
+            "Erdemli",
+            "Gulnar",
+            "Mut",
+            "Slabelifke",
+            "Tarsus",
+            "Aydincik",
+            "Bozyazi",
+            "Camliyayla",
+            "Akdeniz",
+            "Mezitli",
+            "Toroslar",
+            "Yenisehir"
+        ]
+    },
+    {
+        "label": "Istanbul",
+        "value": 34,
+        "labelceleri": [
+            "Adalar",
+            "Bakirkoy",
+            "BesIktas",
+            "Beykoz",
+            "Beyoglu",
+            "Catalca",
+            "Eyup",
+            "Fatih",
+            "Gaziosmanpasa",
+            "Kadikoy",
+            "Kartal",
+            "Sariyer",
+            "Slabelivri",
+            "Slabele",
+            "Sisli",
+            "Uskudar",
+            "Zeytinburnu",
+            "Buyukcekmece",
+            "Kagithane",
+            "Kucukcekmece",
+            "Pendik",
+            "Umraniye",
+            "Bayrampasa",
+            "Avcilar",
+            "Bagcilar",
+            "Bahcelievler",
+            "Gungoren",
+            "Maltepe",
+            "Sultanbeyli",
+            "Tuzla",
+            "Esenler",
+            "Arnavutkoy",
+            "Atasehir",
+            "Basaksehir",
+            "Beylikduzu",
+            "Cekmekoy",
+            "Esenyurt",
+            "Sancaktepe",
+            "Sultangazi"
+        ]
+    },
+    {
+        "label": "Izmir",
+        "value": 35,
+        "labelceleri": [
+            "Aliaga",
+            "Bayindir",
+            "Bergama",
+            "Bornova",
+            "Cesme",
+            "Diklabeli",
+            "Foca",
+            "Karaburun",
+            "Karsiyaka",
+            "Kemalpasa",
+            "Kinik",
+            "Kiraz",
+            "Menemen",
+            "Odemis",
+            "Seferihisar",
+            "Selcuk",
+            "Tire",
+            "Torbali",
+            "Urla",
+            "Beydag",
+            "Buca",
+            "Konak",
+            "Menderes",
+            "Balcova",
+            "Cigli",
+            "Gaziemir",
+            "Narlidere",
+            "Guzelbahce",
+            "Bayrakli",
+            "Karabaglar"
+        ]
+    },
+    {
+        "label": "Kars",
+        "value": 36,
+        "labelceleri": [
+            "Arpacay",
+            "Digor",
+            "Kagizman",
+            "Merkez",
+            "Sarikamis",
+            "Selim",
+            "Susuz",
+            "Akyaka"
+        ]
+    },
+    {
+        "label": "Kastamonu",
+        "value": 37,
+        "labelceleri": [
+            "Abana",
+            "Arac",
+            "Azdavay",
+            "Bozkurt",
+            "Cide",
+            "Catalzeytin",
+            "Daday",
+            "Devrekani",
+            "Inebolu",
+            "Merkez",
+            "Kure",
+            "Taskopru",
+            "Tosya",
+            "Ihsangazi",
+            "Pinarbasi",
+            "Senpazar",
+            "Agli",
+            "Doganyurt",
+            "Hanonu",
+            "Seydlabeler"
+        ]
+    },
+    {
+        "label": "Kayseri",
+        "value": 38,
+        "labelceleri": [
+            "Bunyan",
+            "Develi",
+            "Felahiye",
+            "Incesu",
+            "Pinarbasi",
+            "Sarioglan",
+            "Sariz",
+            "Tomarza",
+            "Yahyali",
+            "Yeslabelhisar",
+            "Akkisla",
+            "Talas",
+            "Kocasinan",
+            "Melikgazi",
+            "Hacilar",
+            "Ozvatan"
+        ]
+    },
+    {
+        "label": "Kirklareli",
+        "value": 39,
+        "labelceleri": [
+            "Babaeski",
+            "Demirkoy",
+            "Merkez",
+            "Kofcaz",
+            "Luleburgaz",
+            "Pehlivankoy",
+            "Pinarhisar",
+            "Vize"
+        ]
+    },
+    {
+        "label": "Kirsehir",
+        "value": 40,
+        "labelceleri": [
+            "Cicekdagi",
+            "Kaman",
+            "Merkez",
+            "Mucur",
+            "Akpinar",
+            "Akcakent",
+            "Boztepe"
+        ]
+    },
+    {
+        "label": "Kocaeli",
+        "value": 41,
+        "labelceleri": [
+            "Gebze",
+            "Golcuk",
+            "Kandira",
+            "Karamursel",
+            "Korfez",
+            "Derince",
+            "Basiskele",
+            "Cayirova",
+            "Darica",
+            "Dlabelovasi",
+            "Izmit",
+            "Kartepe"
+        ]
+    },
+    {
+        "label": "Konya",
+        "value": 42,
+        "labelceleri": [
+            "Aksehir",
+            "Beysehir",
+            "Bozkir",
+            "Cihanbeyli",
+            "Cumra",
+            "Doganhisar",
+            "Eregli",
+            "Hadim",
+            "labelgin",
+            "Kadinhani",
+            "Karapinar",
+            "Kulu",
+            "Sarayonu",
+            "Seydisehir",
+            "Yunak",
+            "Akoren",
+            "Altinekin",
+            "Derebucak",
+            "Huyuk",
+            "Karatay",
+            "Meram",
+            "Selcuklu",
+            "Taskent",
+            "Ahirli",
+            "Celtik",
+            "Derbent",
+            "Emirgazi",
+            "Guneysinir",
+            "Halkapinar",
+            "Tuzlukcu",
+            "Yalihuyuk"
+        ]
+    },
+    {
+        "label": "Kutahya",
+        "value": 43,
+        "labelceleri": [
+            "Altintas",
+            "Domanic",
+            "Emet",
+            "Gediz",
+            "Merkez",
+            "Simav",
+            "Tavsanli",
+            "Aslanapa",
+            "Dumlupinar",
+            "Hisarcik",
+            "Saphane",
+            "Cavdarhisar",
+            "Pazarlar"
+        ]
+    },
+    {
+        "label": "Malatya",
+        "value": 44,
+        "labelceleri": [
+            "Akcadag",
+            "Arapgir",
+            "Arguvan",
+            "Darende",
+            "Dogansehir",
+            "Hekimhan",
+            "Merkez",
+            "Puturge",
+            "Yeslabelyurt",
+            "Battalgazi",
+            "Doganyol",
+            "Kale",
+            "Kuluncak",
+            "Yazihan"
+        ]
+    },
+    {
+        "label": "Manisa",
+        "value": 45,
+        "labelceleri": [
+            "Akhisar",
+            "Alasehir",
+            "Demirci",
+            "Gordes",
+            "Kirkagac",
+            "Kula",
+            "Merkez",
+            "Salihli",
+            "Sarigol",
+            "Saruhanli",
+            "Selendi",
+            "Soma",
+            "Sehzadeler",
+            "Yunusemre",
+            "Turgutlu",
+            "Ahmetli",
+            "Golmarmara",
+            "Koprubasi"
+        ]
+    },
+    {
+        "label": "Kahramanmaras",
+        "value": 46,
+        "labelceleri": [
+            "Afsin",
+            "Andirin",
+            "Dulkadiroglu",
+            "Onikisubat",
+            "Elbistan",
+            "Goksun",
+            "Merkez",
+            "Pazarcik",
+            "Turkoglu",
+            "Caglayancerit",
+            "Ekinozu",
+            "Nurhak"
+        ]
+    },
+    {
+        "label": "Mardin",
+        "value": 47,
+        "labelceleri": [
+            "Derik",
+            "Kiziltepe",
+            "Artuklu",
+            "Merkez",
+            "Mazidagi",
+            "Midyat",
+            "Nusaybin",
+            "Omerli",
+            "Savur",
+            "Dargecit",
+            "Yeslabelli"
+        ]
+    },
+    {
+        "label": "Mugla",
+        "value": 48,
+        "labelceleri": [
+            "Bodrum",
+            "Datca",
+            "Fethiye",
+            "Koycegiz",
+            "Marmaris",
+            "Mentese",
+            "Mlabelas",
+            "Ula",
+            "Yatagan",
+            "Dalaman",
+            "Seydikemer",
+            "Ortaca",
+            "Kavaklidere"
+        ]
+    },
+    {
+        "label": "Mus",
+        "value": 49,
+        "labelceleri": [
+            "Bulanik",
+            "Malazgirt",
+            "Merkez",
+            "Varto",
+            "Haskoy",
+            "Korkut"
+        ]
+    },
+    {
+        "label": "Nevsehir",
+        "value": 50,
+        "labelceleri": [
+            "Avanos",
+            "Derinkuyu",
+            "Gulsehir",
+            "Hacibektas",
+            "Kozakli",
+            "Merkez",
+            "Urgup",
+            "Acigol"
+        ]
+    },
+    {
+        "label": "Nigde",
+        "value": 51,
+        "labelceleri": [
+            "Bor",
+            "Camardi",
+            "Merkez",
+            "Ulukisla",
+            "Altunhisar",
+            "Ciftlik"
+        ]
+    },
+    {
+        "label": "Ordu",
+        "value": 52,
+        "labelceleri": [
+            "Akkus",
+            "Altinordu",
+            "Aybasti",
+            "Fatsa",
+            "Golkoy",
+            "Korgan",
+            "Kumru",
+            "Mesudiye",
+            "Persembe",
+            "Ulubey",
+            "Unye",
+            "Gulyali",
+            "Gurgentepe",
+            "Camas",
+            "Catalpinar",
+            "Caybasi",
+            "Ikizce",
+            "Kabaduz",
+            "Kabatas"
+        ]
+    },
+    {
+        "label": "Rize",
+        "value": 53,
+        "labelceleri": [
+            "Ardesen",
+            "Camlihemsin",
+            "Cayeli",
+            "Findikli",
+            "Ikizdere",
+            "Kalkandere",
+            "Pazar",
+            "Merkez",
+            "Guneysu",
+            "Derepazari",
+            "Hemsin",
+            "Iyidere"
+        ]
+    },
+    {
+        "label": "Sakarya",
+        "value": 54,
+        "labelceleri": [
+            "Akyazi",
+            "Geyve",
+            "Hendek",
+            "Karasu",
+            "Kaynarca",
+            "Sapanca",
+            "Kocaali",
+            "Pamukova",
+            "Tarakli",
+            "Ferizli",
+            "Karapurcek",
+            "Sogutlu",
+            "Adapazari",
+            "Arifiye",
+            "Erenler",
+            "Serdivan"
+        ]
+    },
+    {
+        "label": "Samsun",
+        "value": 55,
+        "labelceleri": [
+            "Alacam",
+            "Bafra",
+            "Carsamba",
+            "Havza",
+            "Kavak",
+            "Ladik",
+            "Terme",
+            "Vezirkopru",
+            "Asarcik",
+            "Ondokuzmayis",
+            "Salipazari",
+            "Tekkekoy",
+            "Ayvacik",
+            "Yakakent",
+            "Atakum",
+            "Canik",
+            "Ilkadim"
+        ]
+    },
+    {
+        "label": "Siirt",
+        "value": 56,
+        "labelceleri": [
+            "Baykan",
+            "Eruh",
+            "Kurtalan",
+            "Pervari",
+            "Merkez",
+            "Sirvan",
+            "Tlabello"
+        ]
+    },
+    {
+        "label": "Sinop",
+        "value": 57,
+        "labelceleri": [
+            "Ayancik",
+            "Boyabat",
+            "Duragan",
+            "Erfelek",
+            "Gerze",
+            "Merkez",
+            "Turkeli",
+            "Dikmen",
+            "Sarayduzu"
+        ]
+    },
+    {
+        "label": "Sivas",
+        "value": 58,
+        "labelceleri": [
+            "Divrigi",
+            "Gemerek",
+            "Gurun",
+            "Hafik",
+            "Imranli",
+            "Kangal",
+            "Koyulhisar",
+            "Merkez",
+            "Susehri",
+            "Sarkisla",
+            "Yildizeli",
+            "Zara",
+            "Akincilar",
+            "Altinyayla",
+            "Dogansar",
+            "Golova",
+            "Ulas"
+        ]
+    },
+    {
+        "label": "Tekirdag",
+        "value": 59,
+        "labelceleri": [
+            "Cerkezkoy",
+            "Corlu",
+            "Ergene",
+            "Hayrabolu",
+            "Malkara",
+            "Muratli",
+            "Saray",
+            "Suleymanpasa",
+            "Kapakli",
+            "Sarkoy",
+            "Marmaraereglisi"
+        ]
+    },
+    {
+        "label": "Tokat",
+        "value": 60,
+        "labelceleri": [
+            "Almus",
+            "Artova",
+            "Erbaa",
+            "Niksar",
+            "Resadiye",
+            "Merkez",
+            "Turhal",
+            "Zlabele",
+            "Pazar",
+            "Yeslabelyurt",
+            "Basciftlik",
+            "Sulusaray"
+        ]
+    },
+    {
+        "label": "Trabzon",
+        "value": 61,
+        "labelceleri": [
+            "Akcaabat",
+            "Arakli",
+            "Arsin",
+            "Caykara",
+            "Macka",
+            "Of",
+            "Ortahisar",
+            "Surmene",
+            "Tonya",
+            "Vakfikebir",
+            "Yomra",
+            "BesIkduzu",
+            "Salpazari",
+            "Carsibasi",
+            "Dernekpazari",
+            "Duzkoy",
+            "Hayrat",
+            "Koprubasi"
+        ]
+    },
+    {
+        "label": "Tunceli",
+        "value": 62,
+        "labelceleri": [
+            "Cemisgezek",
+            "Hozat",
+            "Mazgirt",
+            "Nazimiye",
+            "Ovacik",
+            "Pertek",
+            "Pulumur",
+            "Merkez"
+        ]
+    },
+    {
+        "label": "Sanliurfa",
+        "value": 63,
+        "labelceleri": [
+            "Akcakale",
+            "Birecik",
+            "Bozova",
+            "Ceylanpinar",
+            "Eyyubiye",
+            "Halfeti",
+            "Hallabeliye",
+            "Hlabelvan",
+            "Karakopru",
+            "Siverek",
+            "Suruc",
+            "Viransehir",
+            "Harran"
+        ]
+    },
+    {
+        "label": "Usak",
+        "value": 64,
+        "labelceleri": [
+            "Banaz",
+            "Esme",
+            "Karahalli",
+            "Sivasli",
+            "Ulubey",
+            "Merkez"
+        ]
+    },
+    {
+        "label": "Van",
+        "value": 65,
+        "labelceleri": [
+            "Baskale",
+            "Catak",
+            "Ercis",
+            "Gevas",
+            "Gurpinar",
+            "Ipekyolu",
+            "Muradiye",
+            "Ozalp",
+            "Tusba",
+            "Bahcesaray",
+            "Caldiran",
+            "Edremit",
+            "Saray"
+        ]
+    },
+    {
+        "label": "Yozgat",
+        "value": 66,
+        "labelceleri": [
+            "Akdagmadeni",
+            "Bogazliyan",
+            "Cayiralan",
+            "Cekerek",
+            "Sarikaya",
+            "Sorgun",
+            "Sefaatli",
+            "Yerkoy",
+            "Merkez",
+            "Aydincik",
+            "Candir",
+            "Kadisehri",
+            "Saraykent",
+            "Yenifakili"
+        ]
+    },
+    {
+        "label": "Zonguldak",
+        "value": 67,
+        "labelceleri": [
+            "Caycuma",
+            "Devrek",
+            "Eregli",
+            "Merkez",
+            "Alapli",
+            "Gokcebey"
+        ]
+    },
+    {
+        "label": "Aksaray",
+        "value": 68,
+        "labelceleri": [
+            "Agacoren",
+            "Esklabel",
+            "Gulagac",
+            "Guzelyurt",
+            "Merkez",
+            "Ortakoy",
+            "Sariyahsi"
+        ]
+    },
+    {
+        "label": "Bayburt",
+        "value": 69,
+        "labelceleri": [
+            "Merkez",
+            "Aydintepe",
+            "Demirozu"
+        ]
+    },
+    {
+        "label": "Karaman",
+        "value": 70,
+        "labelceleri": [
+            "Ermenek",
+            "Merkez",
+            "Ayranci",
+            "Kazimkarabekir",
+            "Basyayla",
+            "Sarivellabeler"
+        ]
+    },
+    {
+        "label": "Kirikkale",
+        "value": 71,
+        "labelceleri": [
+            "Delice",
+            "Keskin",
+            "Merkez",
+            "Sulakyurt",
+            "Bahslabeli",
+            "Baliseyh",
+            "Celebi",
+            "Karakeclabeli",
+            "Yahsihan"
+        ]
+    },
+    {
+        "label": "Batman",
+        "value": 72,
+        "labelceleri": [
+            "Merkez",
+            "Besiri",
+            "Gercus",
+            "Kozluk",
+            "Sason",
+            "Hasankeyf"
+        ]
+    },
+    {
+        "label": "Sirnak",
+        "value": 73,
+        "labelceleri": [
+            "Beytussebap",
+            "Cizre",
+            "Idlabel",
+            "Slabelopi",
+            "Merkez",
+            "Uludere",
+            "Guclukonak"
+        ]
+    },
+    {
+        "label": "Bartin",
+        "value": 74,
+        "labelceleri": [
+            "Merkez",
+            "Kurucaslabele",
+            "Ulus",
+            "Amasra"
+        ]
+    },
+    {
+        "label": "Ardahan",
+        "value": 75,
+        "labelceleri": [
+            "Merkez",
+            "Cildir",
+            "Gole",
+            "Hanak",
+            "Posof",
+            "Damal"
+        ]
+    },
+    {
+        "label": "Igdir",
+        "value": 76,
+        "labelceleri": [
+            "Aralik",
+            "Merkez",
+            "Tuzluca",
+            "Karakoyunlu"
+        ]
+    },
+    {
+        "label": "Yalova",
+        "value": 77,
+        "labelceleri": [
+            "Merkez",
+            "Altinova",
+            "Armutlu",
+            "Cinarcik",
+            "Ciftlikkoy",
+            "Termal"
+        ]
+    },
+    {
+        "label": "Karabuk",
+        "value": 78,
+        "labelceleri": [
+            "Eflani",
+            "Eskipazar",
+            "Merkez",
+            "Ovacik",
+            "Safranbolu",
+            "Yenice"
+        ]
+    },
+    {
+        "label": "Klabelis",
+        "value": 79,
+        "labelceleri": [
+            "Merkez",
+            "Elbeyli",
+            "Musabeyli",
+            "Polateli"
+        ]
+    },
+    {
+        "label": "Osmaniye",
+        "value": 80,
+        "labelceleri": [
+            "Bahce",
+            "Kadirli",
+            "Merkez",
+            "Duzici",
+            "Hasanbeyli",
+            "Sumbas",
+            "Toprakkale"
+        ]
+    },
+    {
+        "label": "Duzce",
+        "value": 81,
+        "labelceleri": [
+            "Akcakoca",
+            "Merkez",
+            "Yigilca",
+            "Cumayeri",
+            "Golyaka",
+            "Clabelimli",
+            "Gumusova",
+            "Kaynasli"
+        ]
+    }
+]
